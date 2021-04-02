@@ -277,3 +277,94 @@ footer a{
     color: #fff;
     
 }
+
+.gracias-main{
+    color: #fff;
+    text-align: center;
+    font-size: 3em;
+}
+
+.hands{
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    display: inline-block;
+}
+
+.img-cont{
+    text-align: center;
+}
+
+.html5{
+    text-align: center;
+    
+    width: 400px;
+    margin-right: 2%;
+    display: inline-block;
+}
+
+.icono-html5{
+    font-size: 100px;
+    color: #fff;
+}
+
+.cont-serv{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.main-title-services{
+    color: #fff ;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 10px;
+    padding: 0px;
+}
+
+.css3-logo{
+    font-size: 100px;
+    color: #fff;
+}
+
+.js-logo{
+    font-size: 100px;
+    color: #fff;
+}
+
+.css3{
+    text-align: center;
+    
+    width: 400px;
+    margin-right: 2%;
+    display: inline-block;
+}
+
+.js{
+    text-align: center;
+    width: 400px;
+    margin-right: 2%;
+    display: inline-block;
+}
+
+.parrafo-article{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    color: #fff;
+
+}
+
+
+.css3-logo:hover{
+    font-size: 100px;
+    color: #7A7A7A;
+}
+
+.js-logo:hover{
+    font-size: 100px;
+    color: #7A7A7A;
+}
+
+.icono-html5:hover{
+    font-size: 100px;
+    color: #7A7A7A;
+}
